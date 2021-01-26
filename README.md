@@ -21,3 +21,7 @@ In the console, enter **install.packages("rmarkdown")** to install [RMarkdown](h
 
 # Utilization
 To be completed.
+
+## Miktex
+Once Miktex is installed, launch TeXworks.
+Check the well-functionning of the software by copying and pasting any sample (like this [one](https://tug.org/TUGboat/sampleart.ltx)) in the console, then launching the composition button (upper-left green triangle) : another TeXworks window should open, displaying the output of the code.
