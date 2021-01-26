@@ -18,3 +18,6 @@ In case some issues are encountered, here are the detailed versions used as of J
 # RMarkdown installation
 Once R and RStudio are installed, open the latter.
 In the console, enter **install.packages("rmarkdown")** to install [RMarkdown](https://rmarkdown.rstudio.com/index.html).
+
+# Utilization
+To be completed.
