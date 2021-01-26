@@ -8,7 +8,7 @@ We recommend downloading the following softwares :
 * [Python](https://www.python.org): select the version suggested once you move over the download tab
 * [MiKTeX](https://miktex.org): see the download tab
 
-These installations should be fine using the latest (64 bits) version for each software.
+These installations should be fine using the latest (64 bits) version and the default settings for each software .
 In case some issues are encountered, here are the detailed versions used as of January 2021 :
 * R : [4.0.3](https://cran.rstudio.com)
 * RStudio: [1.4.1103](https://rstudio.com/products/rstudio/release-notes/)
