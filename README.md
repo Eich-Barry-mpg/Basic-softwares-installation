@@ -25,11 +25,13 @@ In the console, enter **install.packages("rmarkdown")** to install [RMarkdown](h
 
 ## Installation
 First, download [Python 3.7.6]().
-Choose the customized istallation, and :
+Choose the customized istallation, and in the custom parameters :
+* install Python "at the root" : (**C:\Python**)
 * make sure to **add Python to the PATH**
-* make sure pip will be installed **XXXX**
-* install pandas by typing : ** **
-* install numpy by typing : ** **
+* make sure pip will be installed by typing: **pip**
+* install pandas by typing: **pip install pandas**
+* install numpy by typing: **pip install numpy** (might indicate that numpy is already installed)
+* install matplotlib by typing: **-m pip install -U matplotlib**
 
 ## Librairies
 Open the command prompt (*invite de commande*) : in the Windows search bar, type "cmd".
@@ -43,9 +45,25 @@ Then :
 * Access Python>Python37>Lib>site-packages
 * Paste the two copied files
 
+## Environment variables
+We now need to update the environment variables.
+* In the Windows search bar, look for "*Modifier les variables d'environnement*" (typing "environment" or "variable" should suffice)
+* In the new window, select "Environment variables"
+Now, in the second frame ("*System variables*"), create two new variables :
+* Call the first one "*PYTHONHOME*" with value "*C:\Python\Python37*"
+* Call the second one "*PYTHONPATH*" with three different values (you can either separate the paths with a semicolumn, or add them separately) :
+    *-"*C:\Python\Python37\DLLs*"
+    *-"*C:\Python\Python37\Lib*"
+    *-"*C:\Python\Python37\Lib\site-packages*"
+
+Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
+Close all windows.
 
 # Utilization
 To be completed.
+
+## Math Kernel Library
+
 
 ## Miktex
 Once Miktex is installed, launch TeXworks.
