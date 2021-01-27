@@ -1,4 +1,4 @@
-# Basic-softwares-installation
+# Basic softwares installation
 Lists the softwares any new member of MPG Partners might need and details the installation process.
 
 # Direct installations
