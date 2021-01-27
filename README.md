@@ -10,6 +10,7 @@ We recommend downloading the following softwares :
 * [Everything](https://www.voidtools.com/downloads/)
 * [GitHub Desktop](https://desktop.github.com)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
 
 Those installations should be fine using the latest (64 bits) version and the default settings for each software .
 In case some issues are encountered, here are the detailed versions used as of January 2021 :
@@ -61,9 +62,6 @@ Close all windows.
 
 # Utilization
 To be completed.
-
-## Math Kernel Library
-
 
 ## Miktex
 Once Miktex is installed, launch TeXworks.
