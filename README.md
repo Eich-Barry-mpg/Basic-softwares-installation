@@ -66,6 +66,7 @@ Now, in the second frame ("*System variables*"), create two new variables :
 
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
 <img src="Variables_environnement_bis.png" width="700">
+
 Close all windows.
 
 # Utilization
