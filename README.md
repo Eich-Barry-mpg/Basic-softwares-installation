@@ -3,14 +3,14 @@ Lists the softwares any new member of MPG Partners might need and details the in
 
 # Direct installations
 We recommend downloading the following softwares :
-* [R](https://www.r-project.org): use any CRAN mirror for download
+* ![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Variables%20environnement%20bis.png=250x250) [R](https://www.r-project.org): use any CRAN mirror for download
 * [RStudio](https://rstudio.com): see the download link, then choose the free version
-* [Python](https://www.python.org): select the version suggested once you move over the download tab
 * [MiKTeX](https://miktex.org): see the download tab
 * [Everything](https://www.voidtools.com/downloads/)
 * [GitHub Desktop](https://desktop.github.com)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
+
 
 Those installations should be fine using the latest (64 bits) version and the default settings for each software .
 In case some issues are encountered, here are the detailed versions used as of January 2021 :
@@ -46,6 +46,7 @@ Then :
 * Find the python directory (you can look for *python.exe* in the Everything software).
 * Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
+
 ![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
 
 ## Environment variables
@@ -58,9 +59,11 @@ Now, in the second frame ("*System variables*"), create two new variables :
     *-"*C:\Python\Python37\DLLs*"
     *-"*C:\Python\Python37\Lib*"
     *-"*C:\Python\Python37\Lib\site-packages*"
-**IMAGE**
+
+![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
+
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
-**IMAGE**
+![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
 Close all windows.
 
 # Utilization
