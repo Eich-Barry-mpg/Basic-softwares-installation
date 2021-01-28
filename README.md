@@ -3,7 +3,7 @@ Lists the softwares any new member of MPG Partners might need and details the in
 
 # Direct installations
 We recommend downloading the following softwares :
-* ![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Variables%20environnement%20bis.png=250x250) [R](https://www.r-project.org): use any CRAN mirror for download
+* ![](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Variables%20environnement%20bis.png=250x250) [R](https://www.r-project.org): use any CRAN mirror for download
 * [RStudio](https://rstudio.com): see the download link, then choose the free version
 * [MiKTeX](https://miktex.org): see the download tab
 * [Everything](https://www.voidtools.com/downloads/)
