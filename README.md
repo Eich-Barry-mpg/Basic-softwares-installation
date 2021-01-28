@@ -3,12 +3,12 @@ Lists the softwares any new member of MPG Partners might need and details the in
 
 # Direct installations
 We recommend downloading the following softwares :
-* ![](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Variables%20environnement%20bis.png=250x250) [R](https://www.r-project.org): use any CRAN mirror for download
-* [RStudio](https://rstudio.com): see the download link, then choose the free version
-* [MiKTeX](https://miktex.org): see the download tab
-* [Everything](https://www.voidtools.com/downloads/)
+* <img src="logo_R.png" width="40"> [R](https://www.r-project.org): use any CRAN mirror for download
+* <img src="logo_RStudio.png" width="40"> [RStudio](https://rstudio.com): see the download link, then choose the free version
+* <img src="logo_MiKTEX.png" width="40"> [MiKTEX](https://miktex.org): see the download tab
+* <img src="logo_Everything.png" width="40"> [Everything](https://www.voidtools.com/downloads/)
 * [GitHub Desktop](https://desktop.github.com)
-* [Visual Studio Code](https://code.visualstudio.com)
+* <img src="logo_VSC.png" width="40"> [Visual Studio Code](https://code.visualstudio.com)
 * [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
 
 
