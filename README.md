@@ -47,7 +47,7 @@ Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib
 * Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
 
-<img src="Transfert_codpy.png" width="500">
+<img src="Transfert_codpy.png" width="1000">
 
 ## Environment variables
 We now need to update the environment variables.
@@ -60,10 +60,10 @@ Now, in the second frame ("*System variables*"), create two new variables :
     *-"*C:\Python\Python37\Lib*"
     *-"*C:\Python\Python37\Lib\site-packages*"
     
-<img src="Transfert_codpy.png" width="500">
+<img src="Variables_environnement.png" width="1000">
 
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
-![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
+<img src="Variables_environnement_bis.png" width="1000">
 Close all windows.
 
 # Utilization
