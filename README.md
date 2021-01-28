@@ -20,30 +20,31 @@ In case some issues are encountered, here are the detailed versions used as of J
 
 # RMarkdown
 Once R and RStudio are installed, open the latter.
-In the console, enter **install.packages("rmarkdown")** to install [RMarkdown](https://rmarkdown.rstudio.com/index.html).
+In the console, enter "*install.packages("rmarkdown")*" to install [RMarkdown](https://rmarkdown.rstudio.com/index.html).
 
 # Python
 
 ## Installation
-First, download [Python 3.7.6]().
+First, download [Python 3.7.7](https://www.python.org/downloads/release/python-377/) (select *Windows x86-64 executable installer*).
 Choose the customized istallation, and in the custom parameters :
-* install Python "at the root" : (**C:\Python**)
-* make sure to **add Python to the PATH**
-* make sure pip will be installed by typing: **pip**
-* install pandas by typing: **pip install pandas**
-* install numpy by typing: **pip install numpy** (might indicate that numpy is already installed)
-* install matplotlib by typing: **-m pip install -U matplotlib**
+* install Python "at the root" : ("*C:\Python*")
+* make sure to "*add Python to the PATH*"
+* make sure pip will be installed by typing: "*pip*"
+* install pandas by typing: "*pip install pandas*"
+* install numpy by typing: "*pip install numpy*" (might indicate that numpy is already installed)
+* install matplotlib by typing: "*-m pip install -U matplotlib*"
+Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib" are installed (just look for their names and make sure *Everything* finds some files).
 
 ## Librairies
-Open the command prompt (*invite de commande*) : in the Windows search bar, type "cmd".
+Open the command prompt (*invite de commande*) by typing "cmd" in the Windows search bar.
 Then :
-* you can check that pip is installed by typing
+* you can check that pip is installed by typing "*pip*"
 
 ## GitHub & Codpy (in case you don't already have access to the Github files)
 * Download the Github zip file (will most likely be shared by email or drive)
-* Then access Github>codpy>codpy : you will find two "codpy" files. Copy both of them.
-* Find the python directory (you can look for **python.exe** in the Everything software).
-* Access Python>Python37>Lib>site-packages
+* Then access *Github>codpy>codpy* : you will find two "codpy" files. Copy both of them.
+* Find the python directory (you can look for *python.exe* in the Everything software).
+* Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
 
 ## Environment variables
@@ -56,8 +57,9 @@ Now, in the second frame ("*System variables*"), create two new variables :
     *-"*C:\Python\Python37\DLLs*"
     *-"*C:\Python\Python37\Lib*"
     *-"*C:\Python\Python37\Lib\site-packages*"
-
+**IMAGE**
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
+**IMAGE**
 Close all windows.
 
 # Utilization
