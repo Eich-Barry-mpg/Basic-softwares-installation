@@ -25,6 +25,8 @@ In the console, enter "*install.packages("rmarkdown")*" to install [RMarkdown](h
 
 ## Installation
 First, download [Python 3.7.7](https://www.python.org/downloads/release/python-377/) (select *Windows x86-64 executable installer*).
+<img src="Python_version.png" width="700">
+
 Choose the customized istallation, and in the custom parameters :
 * install Python "at the root" : ("*C:\Python*")
 * make sure to "*add Python to the PATH*"
@@ -38,7 +40,7 @@ Then :
 * install numpy by typing: "*pip install numpy*" (might indicate that numpy is already installed)
 * install matplotlib by typing: "*-m pip install -U matplotlib*"
 Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib" are installed (just look for their names and make sure *Everything* finds some files).
-
+<img src="query_Everything.png" width="700">
 
 ## GitHub & Codpy (in case you don't already have access to the Github files)
 * Download the Github zip file (will most likely be shared by email or drive)
@@ -47,7 +49,7 @@ Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib
 * Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
 
-<img src="Transfert_codpy.png" width="1000">
+<img src="Transfert_codpy.png" width="700">
 
 ## Environment variables
 We now need to update the environment variables.
@@ -60,10 +62,10 @@ Now, in the second frame ("*System variables*"), create two new variables :
     *-"*C:\Python\Python37\Lib*"
     *-"*C:\Python\Python37\Lib\site-packages*"
     
-<img src="Variables_environnement.png" width="1000">
+<img src="Variables_environnement.png" width="700">
 
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
-<img src="Variables_environnement_bis.png" width="1000">
+<img src="Variables_environnement_bis.png" width="700">
 Close all windows.
 
 # Utilization
