@@ -46,6 +46,7 @@ Then :
 * Find the python directory (you can look for *python.exe* in the Everything software).
 * Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
+![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
 
 ## Environment variables
 We now need to update the environment variables.
