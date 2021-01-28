@@ -7,9 +7,9 @@ We recommend downloading the following softwares :
 * <img src="logo_RStudio.png" width="40"> [RStudio](https://rstudio.com): see the download link, then choose the free version
 * <img src="logo_MiKTEX.png" width="40"> [MiKTEX](https://miktex.org): see the download tab
 * <img src="logo_Everything.png" width="40"> [Everything](https://www.voidtools.com/downloads/)
-* [GitHub Desktop](https://desktop.github.com)
+* <img src="logo_github.png" width="40"> [GitHub Desktop](https://desktop.github.com)
 * <img src="logo_VSC.png" width="40"> [Visual Studio Code](https://code.visualstudio.com)
-* [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
+* <img src="logo_intel.png" width="40"> [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
 
 
 Those installations should be fine using the latest (64 bits) version and the default settings for each software .
