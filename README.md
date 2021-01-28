@@ -11,7 +11,6 @@ We recommend downloading the following softwares :
 * <img src="logo_VSC.png" width="40"> [Visual Studio Code](https://code.visualstudio.com)
 * <img src="logo_intel.png" width="40"> [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl) : download "Intel oneAPI Math Kernel Library for Windows" file
 
-
 Those installations should be fine using the latest (64 bits) version and the default settings for each software .
 In case some issues are encountered, here are the detailed versions used as of January 2021 :
 * R : [4.0.3](https://cran.rstudio.com)
@@ -30,15 +29,16 @@ Choose the customized istallation, and in the custom parameters :
 * install Python "at the root" : ("*C:\Python*")
 * make sure to "*add Python to the PATH*"
 * make sure pip will be installed by typing: "*pip*"
-* install pandas by typing: "*pip install pandas*"
-* install numpy by typing: "*pip install numpy*" (might indicate that numpy is already installed)
-* install matplotlib by typing: "*-m pip install -U matplotlib*"
-Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib" are installed (just look for their names and make sure *Everything* finds some files).
 
 ## Librairies
 Open the command prompt (*invite de commande*) by typing "cmd" in the Windows search bar.
 Then :
 * you can check that pip is installed by typing "*pip*"
+* install pandas by typing: "*pip install pandas*"
+* install numpy by typing: "*pip install numpy*" (might indicate that numpy is already installed)
+* install matplotlib by typing: "*-m pip install -U matplotlib*"
+Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib" are installed (just look for their names and make sure *Everything* finds some files).
+
 
 ## GitHub & Codpy (in case you don't already have access to the Github files)
 * Download the Github zip file (will most likely be shared by email or drive)
@@ -47,7 +47,7 @@ Then :
 * Access *Python>Python37>Lib>site-packages*
 * Paste the two copied files
 
-![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
+<img src="Transfert_codpy.png" width="500">
 
 ## Environment variables
 We now need to update the environment variables.
@@ -59,8 +59,8 @@ Now, in the second frame ("*System variables*"), create two new variables :
     *-"*C:\Python\Python37\DLLs*"
     *-"*C:\Python\Python37\Lib*"
     *-"*C:\Python\Python37\Lib\site-packages*"
-
-![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
+    
+<img src="Transfert_codpy.png" width="500">
 
 Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
 ![alt text](https://github.com/Eich-Barry-mpg/Basic-softwares-installation/blob/main/Transfert%20codpy.png)
