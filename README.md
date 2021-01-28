@@ -40,7 +40,7 @@ Then :
 * install numpy by typing: "*pip install numpy*" (might indicate that numpy is already installed)
 * install matplotlib by typing: "*-m pip install -U matplotlib*"
 Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib" are installed (just look for their names and make sure *Everything* finds some files).
-<img src="query_Everything.png" width="700">
+<img src="Everything_query.png" width="700">
 
 ## GitHub & Codpy (in case you don't already have access to the Github files)
 * Download the Github zip file (will most likely be shared by email or drive)
