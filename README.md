@@ -20,7 +20,7 @@ In case some issues are encountered, here are the detailed versions used as of J
 Codpy uses math tools from the [Intel® oneAPI Math Kernel Library](https://software.intel.com/content/www/us/en/develop/articles/oneapi-standalone-components.html#onemkl).
 Make sure you only download the MKL component, as such :
 
-<img src="MKL.png" width="40">
+<img src="MKL.png" width="700">
 
 # <img src="logo_Rmd.png" width="40"> RMarkdown
 Once R and RStudio are installed, open the latter.
