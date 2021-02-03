@@ -53,25 +53,25 @@ Don't hesitate to use *Everything* to check if "pandas", "numpy" and "matplotlib
 
 By now, you should have received an invitation to join the team repository (from Jean-Mark a.k.a JohnleM).
 
-<img src="Invitation.png" width="400">
+<img src="Invitation.png" width="700">
 
 View the invitation : this will open a github tab.
 Click on code, and choose to open with GitHub Desktop.
 
-<img src="Open_github.png" width="400">
+<img src="Open_github.png" width="700">
 
 You are now on GitHub Desktop. 
 * First, one crucial point : **DO NOT EVER HIT "commit to master" IF YOU'RE NOT UNDER JEAN-MARC SUPERVISION !**
 * That said, select *Fetch origin* : you should now be able to "clone" codpy on the repository you want. We recommend opening a codpy file in your Documents, and cloning in it, but it's you choice.
 
-<img src="github_desktop.png" width="400">
+<img src="github_desktop.png" width="700">
 
 Then :
 * Access *codpy>codpy* : you will find two "codpy" files. Copy both of them.
 * Find the python directory (you can look for *python.exe* in the Everything software) and access the "site-packages" file. Path shoud be *Python>Python37>Lib>site-packages*
 * Paste the two copied files.
 
-<img src="Transfert_codpy.png" width="400">
+<img src="Transfert_codpy.png" width="700">
 
 ## Environment variables
 We now need to update the environment variables.
