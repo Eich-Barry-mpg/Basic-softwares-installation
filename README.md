@@ -17,11 +17,11 @@ In case some issues are encountered, here are the detailed versions used as of J
 * RStudio: [1.4.1103](https://rstudio.com/products/rstudio/release-notes/)
 * Miktex: [21.1](https://miktex.org/download)
 
-# RMarkdown
+# <img src="logo_Rmd.png" width="40"> RMarkdown
 Once R and RStudio are installed, open the latter.
 In the console, enter "*install.packages("rmarkdown")*" to install [RMarkdown](https://rmarkdown.rstudio.com/index.html).
 
-# Python
+# <img src="logo_Python.png" width="40">  Python
 
 ## Installation
 First, download [Python 3.7.7](https://www.python.org/downloads/release/python-377/) (select *Windows x86-64 executable installer*).
