@@ -54,6 +54,8 @@ Click on code, and choose to open with GitHub Desktop.
 You are now on GitHub Desktop. 
 * First, one crucial point : **DO NOT EVER HIT "commit to master" IF YOU'RE NOT UNDER JEAN-MARC SUPERVISION !**
 * That said, select *Fetch origin* : you should now be able to "clone" codpy on the repository you want. We recommend opening a codpy file in your Documents, and cloning in it, but it's you choice.
+<img src="github_desktop.png" width="700">
+
 Then :
 * Access *codpy>codpy* : you will find two "codpy" files. Copy both of them.
 * Find the python directory (you can look for *python.exe* in the Everything software) and access the "site-packages" file. Path shoud be *Python>Python37>Lib>site-packages*
@@ -78,9 +80,12 @@ Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
 
 Close all windows.
 
-# Test
-To be completed.
+# Testing with Visual Studio Code
 
-## Miktex
-Once Miktex is installed, launch TeXworks.
-Check the well-functionning of the software by copying and pasting any sample (like this [one](https://tug.org/TUGboat/sampleart.ltx)) in the console, then launching the composition button (upper-left green triangle) : another TeXworks window should open, displaying the output of the code.
+You can now check the installation worked.
+With Visual Studio Code, open the *Example1D2D.py* file found in the *\codpy\codpy\apps\Examples1D2D* folder.
+<img src="example_launch.png" width="700">
+
+Hit F5, then "Python File - Debug the currently active Python file", or just Ctrl + F5.
+If everything works, you should have this output :
+<img src="example_worked.png" width="700">
