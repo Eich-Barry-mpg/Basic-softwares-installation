@@ -66,6 +66,7 @@ Then :
 We now need to update the environment variables.
 * In the Windows search bar, look for "*Modifier les variables d'environnement*" (typing "environment" or "variable" should suffice)
 * In the new window, select "Environment variables"
+
 Now, in the second frame ("*System variables*"), create two new variables :
 * Call the first one "*PYTHONHOME*" with value "*C:\Python\Python37*"
 * Call the second one "*PYTHONPATH*" with three different values (you can either separate the paths with a semicolumn, or add them separately) :
@@ -75,8 +76,16 @@ Now, in the second frame ("*System variables*"), create two new variables :
     
 <img src="Variables_environnement.png" width="700">
 
-Select the "*Path*" variable and add the value : "*C:\Python\Python37*"
+Select the "*Path*" variable and add the valuse :
+      *-  "*C:\Python\Python37*"
+      *- "*C:\Program Files (x86)\Intel\oneAPI\mkl\2021.1.1\redist\intel64*"
+      *- "*C:\Program Files (x86)\Intel\oneAPI\compiler\2021.1.1\windows\redist\intel64_win\compiler*"
+      *- "*C:\Users\barry\OneDrive\Documents\codpy\codpy\dlls*"
 <img src="Variables_environnement_bis.png" width="700">
+
+Finally, open Everything and look for the "*mkl_rt.1.dll*" dll file. You should find it in the *C:\Program Files (x86)\Intel\oneAPI\mkl\2021.1.1\redist\intel64* folder.
+Copy it, and paste it in the dll folder in codpy : *codpy\codpy\dll*.
+<img src="dll.png" width="700">
 
 Close all windows.
 
@@ -89,3 +98,5 @@ With Visual Studio Code, open the *Example1D2D.py* file found in the *\codpy\cod
 Hit F5, then "Python File - Debug the currently active Python file", or just Ctrl + F5.
 If everything works, you should have this output :
 <img src="example_worked.png" width="700">
+
+Close all windows.
